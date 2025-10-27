@@ -1,0 +1,501 @@
+Record_ID,Crop,State,Region,Pest_Name,Pest_Type,Month_Reported,Incidence_Percent,Incidence_Level,Probable_Cause,Recommended_Control,Control_Type,Source,Imputed_Flag,Incidence_Percent_Imputed,Year
+1,Onion,Bihar,East,Whitefly,Insect,March,58.2,Medium,Delayed sowing,Crop rotation and field sanitation,Cultural,Farmer field report,False,58.2,2025
+2,Onion,Jharkhand,East,Tikka Leaf Spot,Fungal,April,59.9,Medium,Uncontrolled weeds,Adopt resistant varieties,Cultural,State Agriculture Dept,False,59.9,2025
+3,Sugarcane,Maharashtra,West,Aphids,Insect,September,35.8,Medium,Continuous monocropping,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,35.8,2025
+4,Apple,Himachal Pradesh,North,Thrips,Insect,October,66.8,High,Delayed sowing,Crop rotation and field sanitation,Cultural,KVK alert,False,66.8,2025
+5,Rice,Assam,East,Stem Borer,Insect,January,14.2,Low,High humidity,Apply recommended fungicides,Chemical,State Agriculture Dept,False,14.2,2025
+6,Tomato,Bihar,East,Tikka Leaf Spot,Fungal,May,15.0,Low,Uncontrolled weeds,Apply recommended fungicides,Chemical,Farmer field report,False,15.0,2025
+7,Wheat,Odisha,East,Tea Mosquito Bug,Insect,August,79.4,High,Delayed sowing,Use sticky traps and neem oil,IPM,PPQS report,False,79.4,2025
+8,Apple,Punjab,North,Leaf Rust,Fungal,September,73.9,High,Uncontrolled weeds,Adopt resistant varieties,Cultural,ICAR advisory,False,73.9,2025
+9,Pigeonpea,Punjab,North,Late Blight,Fungal,November,54.2,Medium,High humidity,Adopt resistant varieties,Cultural,State Agriculture Dept,False,54.2,2025
+10,Potato,Uttarakhand,North,Tea Mosquito Bug,Insect,August,82.9,High,Invasive pest spread,Use sticky traps and neem oil,IPM,Farmer field report,False,82.9,2025
+11,Apple,Uttarakhand,North,Leaf Rust,Fungal,December,33.5,Medium,Poor drainage,Adopt resistant varieties,Cultural,ICAR advisory,False,33.5,2025
+12,Tomato,Maharashtra,West,Wilt,Fungal,September,13.3,Low,Uncontrolled weeds,Release Trichogramma parasitoids,Biological,State Agriculture Dept,False,13.3,2025
+13,Sugarcane,Maharashtra,West,Thrips,Insect,May,,,Heavy rainfall and waterlogging,Adopt resistant varieties,Cultural,PPQS report,True,26.6,2025
+14,Onion,Uttarakhand,North,Brown Planthopper,Insect,November,63.0,High,Heavy rainfall and waterlogging,Use sticky traps and neem oil,IPM,Farmer field report,False,63.0,2025
+15,Apple,Odisha,East,Stem Borer,Insect,December,27.6,Low,Poor drainage,Release Trichogramma parasitoids,Biological,ICAR advisory,False,27.6,2025
+16,Mango,Maharashtra,West,Late Blight,Fungal,September,17.4,Low,Unbalanced fertilizer use,Apply recommended fungicides,Chemical,State Agriculture Dept,False,17.4,2025
+17,Onion,Odisha,East,Fall Armyworm,Insect,April,59.5,Medium,Heavy rainfall and waterlogging,Release Trichogramma parasitoids,Biological,ICAR advisory,False,59.5,2025
+18,Cotton,Odisha,East,Whitefly,Insect,April,59.1,Medium,Excess nitrogen use,Apply recommended fungicides,Chemical,ICAR advisory,False,59.1,2025
+19,Onion,Punjab,North,Coffee Berry Borer,Insect,February,53.2,Medium,Uncontrolled weeds,Use pheromone traps and neem spray,Biological,Farmer field report,False,53.2,2025
+20,Banana,Assam,East,Sigatoka,Fungal,September,13.5,Low,Unbalanced fertilizer use,Crop rotation and field sanitation,Cultural,Farmer field report,False,13.5,2025
+21,Maize,Tamil Nadu,South,Blast,Fungal,September,60.2,High,Unbalanced fertilizer use,Adopt resistant varieties,Cultural,PPQS report,False,60.2,2025
+22,Mustard,Tamil Nadu,South,Leaf Rust,Fungal,September,80.3,High,High temperature stress,Adopt resistant varieties,Cultural,ICAR advisory,False,80.3,2025
+23,Sugarcane,Andhra Pradesh,South,Whitefly,Insect,December,17.0,Low,High humidity,Apply recommended fungicides,Chemical,State Agriculture Dept,False,17.0,2025
+24,Apple,Karnataka,South,Thrips,Insect,April,42.6,Medium,Heavy rainfall and waterlogging,Adopt resistant varieties,Cultural,KVK alert,False,42.6,2025
+25,Mustard,West Bengal,East,Brown Planthopper,Insect,July,52.8,Medium,Excess nitrogen use,Use pheromone traps and neem spray,Biological,Farmer field report,False,52.8,2025
+26,Wheat,Karnataka,South,Fruit Borer,Insect,September,73.0,High,Uncontrolled weeds,Release Trichogramma parasitoids,Biological,ICAR advisory,False,73.0,2025
+27,Soybean,Rajasthan,West,Late Blight,Fungal,July,12.5,Low,Poor drainage,Release Trichogramma parasitoids,Biological,PPQS report,False,12.5,2025
+28,Sugarcane,Punjab,North,Sigatoka,Fungal,September,60.7,High,Uncontrolled weeds,Adopt resistant varieties,Cultural,State Agriculture Dept,False,60.7,2025
+29,Rice,Jharkhand,East,Tea Mosquito Bug,Insect,September,13.3,Low,Excess nitrogen use,Release Trichogramma parasitoids,Biological,KVK alert,False,13.3,2025
+30,Apple,Jharkhand,East,Stem Borer,Insect,May,69.3,High,Invasive pest spread,Apply recommended fungicides,Chemical,KVK alert,False,69.3,2025
+31,Mango,Kerala,South,Blast,Fungal,March,76.8,High,Unbalanced fertilizer use,Use pheromone traps and neem spray,Biological,PPQS report,False,76.8,2025
+32,Tea,Telangana,South,Tea Mosquito Bug,Insect,September,54.0,Medium,Uncontrolled weeds,Adopt resistant varieties,Cultural,ICAR advisory,False,54.0,2025
+33,Groundnut,Tamil Nadu,South,Leaf Rust,Fungal,December,86.1,High,Invasive pest spread,Apply recommended fungicides,Chemical,PPQS report,False,86.1,2025
+34,Cotton,Bihar,East,Thrips,Insect,February,35.4,Medium,Heavy rainfall and waterlogging,Crop rotation and field sanitation,Cultural,Farmer field report,False,35.4,2025
+35,Soybean,Chhattisgarh,Central,Blast,Fungal,October,74.6,High,High temperature stress,Apply recommended fungicides,Chemical,ICAR advisory,False,74.6,2025
+36,Onion,Madhya Pradesh,Central,Sigatoka,Fungal,April,61.3,High,Uncontrolled weeds,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,61.3,2025
+37,Sugarcane,West Bengal,East,Coffee Berry Borer,Insect,August,38.7,Medium,Uncontrolled weeds,Integrated Pest Management practices,IPM,Farmer field report,False,38.7,2025
+38,Cotton,Maharashtra,West,Tikka Leaf Spot,Fungal,October,32.4,Medium,Poor drainage,Release Trichogramma parasitoids,Biological,PPQS report,False,32.4,2025
+39,Groundnut,Karnataka,South,Wilt,Fungal,February,78.0,High,High humidity,Use sticky traps and neem oil,IPM,Farmer field report,False,78.0,2025
+40,Tea,Punjab,North,Sigatoka,Fungal,October,12.9,Low,Uncontrolled weeds,Release Trichogramma parasitoids,Biological,Farmer field report,False,12.9,2025
+41,Okra,Kerala,South,Fruit Borer,Insect,July,71.8,High,Uncontrolled weeds,Apply recommended fungicides,Chemical,KVK alert,False,71.8,2025
+42,Mango,Assam,East,Stem Borer,Insect,July,10.8,Low,Unbalanced fertilizer use,Use sticky traps and neem oil,IPM,Farmer field report,False,10.8,2025
+43,Tomato,Assam,East,Blast,Fungal,August,55.3,Medium,Excess nitrogen use,Adopt resistant varieties,Cultural,PPQS report,False,55.3,2025
+44,Okra,Odisha,East,Brown Planthopper,Insect,April,28.5,Low,Uncontrolled weeds,Crop rotation and field sanitation,Cultural,PPQS report,False,28.5,2025
+45,Wheat,Gujarat,West,Aphids,Insect,June,83.4,High,High humidity,Use pheromone traps and neem spray,Biological,State Agriculture Dept,False,83.4,2025
+46,Cotton,Assam,East,Tikka Leaf Spot,Fungal,May,31.1,Medium,Delayed sowing,Release Trichogramma parasitoids,Biological,PPQS report,False,31.1,2025
+47,Pigeonpea,Punjab,North,Fruit Borer,Insect,October,76.8,High,Delayed sowing,Crop rotation and field sanitation,Cultural,KVK alert,False,76.8,2025
+48,Chilli,Assam,East,Late Blight,Fungal,June,37.6,Medium,Heavy rainfall and waterlogging,Release Trichogramma parasitoids,Biological,ICAR advisory,False,37.6,2025
+49,Mango,Kerala,South,Whitefly,Insect,March,51.2,Medium,Uncontrolled weeds,Apply recommended fungicides,Chemical,PPQS report,False,51.2,2025
+50,Tomato,Maharashtra,West,Fruit Borer,Insect,October,19.5,Low,Unbalanced fertilizer use,Integrated Pest Management practices,IPM,State Agriculture Dept,False,19.5,2025
+51,Cotton,Himachal Pradesh,North,Tikka Leaf Spot,Fungal,August,57.3,Medium,High temperature stress,Use pheromone traps and neem spray,Biological,PPQS report,False,57.3,2025
+52,Wheat,Kerala,South,Thrips,Insect,October,60.4,High,High humidity,Release Trichogramma parasitoids,Biological,PPQS report,False,60.4,2025
+53,Wheat,Maharashtra,West,Fall Armyworm,Insect,March,42.4,Medium,Excess nitrogen use,Adopt resistant varieties,Cultural,ICAR advisory,False,42.4,2025
+54,Soybean,Karnataka,South,Leaf Rust,Fungal,August,47.7,Medium,Heavy rainfall and waterlogging,Apply recommended fungicides,Chemical,PPQS report,False,47.7,2025
+55,Mustard,Uttarakhand,North,Blast,Fungal,October,24.6,Low,Delayed sowing,Crop rotation and field sanitation,Cultural,PPQS report,False,24.6,2025
+56,Onion,Rajasthan,West,Thrips,Insect,October,40.3,Medium,Poor drainage,Use pheromone traps and neem spray,Biological,ICAR advisory,False,40.3,2025
+57,Potato,Assam,East,Tea Mosquito Bug,Insect,September,76.1,High,Excess nitrogen use,Use pheromone traps and neem spray,Biological,PPQS report,False,76.1,2025
+58,Okra,Uttarakhand,North,Thrips,Insect,January,52.5,Medium,Continuous monocropping,Use pheromone traps and neem spray,Biological,KVK alert,False,52.5,2025
+59,Sugarcane,Uttarakhand,North,Aphids,Insect,January,72.0,High,High temperature stress,Release Trichogramma parasitoids,Biological,KVK alert,False,72.0,2025
+60,Banana,Telangana,South,Wilt,Fungal,September,85.1,High,Heavy rainfall and waterlogging,Use sticky traps and neem oil,IPM,KVK alert,False,85.1,2025
+61,Banana,Chhattisgarh,Central,Sigatoka,Fungal,December,77.0,High,Excess nitrogen use,Use pheromone traps and neem spray,Biological,KVK alert,False,77.0,2025
+62,Sugarcane,Uttar Pradesh,North,Whitefly,Insect,April,16.7,Low,Excess nitrogen use,Release Trichogramma parasitoids,Biological,KVK alert,False,16.7,2025
+63,Groundnut,Gujarat,West,Brown Planthopper,Insect,December,10.6,Low,Delayed sowing,Use pheromone traps and neem spray,Biological,Farmer field report,False,10.6,2025
+64,Rice,Punjab,North,Tikka Leaf Spot,Fungal,April,35.3,Medium,Invasive pest spread,Use pheromone traps and neem spray,Biological,PPQS report,False,35.3,2025
+65,Mustard,Chhattisgarh,Central,Fall Armyworm,Insect,May,43.9,Medium,Invasive pest spread,Release Trichogramma parasitoids,Biological,State Agriculture Dept,False,43.9,2025
+66,Pigeonpea,Gujarat,West,Late Blight,Fungal,September,48.6,Medium,Invasive pest spread,Release Trichogramma parasitoids,Biological,Farmer field report,False,48.6,2025
+67,Okra,Uttar Pradesh,North,Fall Armyworm,Insect,October,66.4,High,Poor drainage,Use sticky traps and neem oil,IPM,ICAR advisory,False,66.4,2025
+68,Chilli,Rajasthan,West,Sigatoka,Fungal,December,18.0,Low,Delayed sowing,Integrated Pest Management practices,IPM,State Agriculture Dept,False,18.0,2025
+69,Apple,Uttarakhand,North,Wilt,Fungal,November,22.9,Low,High humidity,Use sticky traps and neem oil,IPM,ICAR advisory,False,22.9,2025
+70,Sugarcane,Himachal Pradesh,North,Coffee Berry Borer,Insect,October,15.1,Low,Unbalanced fertilizer use,Crop rotation and field sanitation,Cultural,ICAR advisory,False,15.1,2025
+71,Coffee,Telangana,South,Wilt,Fungal,July,42.1,Medium,Delayed sowing,Crop rotation and field sanitation,Cultural,Farmer field report,False,42.1,2025
+72,Wheat,Maharashtra,West,Tikka Leaf Spot,Fungal,August,26.1,Low,Delayed sowing,Crop rotation and field sanitation,Cultural,PPQS report,False,26.1,2025
+73,Wheat,Uttarakhand,North,Aphids,Insect,September,59.2,Medium,High humidity,Crop rotation and field sanitation,Cultural,PPQS report,False,59.2,2025
+74,Rice,Maharashtra,West,Stem Borer,Insect,May,38.3,Medium,High temperature stress,Integrated Pest Management practices,IPM,Farmer field report,False,38.3,2025
+75,Potato,Assam,East,Brown Planthopper,Insect,December,83.5,High,Delayed sowing,Crop rotation and field sanitation,Cultural,Farmer field report,False,83.5,2025
+76,Tea,Odisha,East,Fruit Borer,Insect,May,87.0,High,Heavy rainfall and waterlogging,Integrated Pest Management practices,IPM,Farmer field report,False,87.0,2025
+77,Rice,Uttar Pradesh,North,Blast,Fungal,July,54.7,Medium,Delayed sowing,Crop rotation and field sanitation,Cultural,State Agriculture Dept,False,54.7,2025
+78,Cotton,Assam,East,Fall Armyworm,Insect,September,56.0,Medium,Heavy rainfall and waterlogging,Integrated Pest Management practices,IPM,Farmer field report,False,56.0,2025
+79,Okra,Madhya Pradesh,Central,Sigatoka,Fungal,June,46.7,Medium,Heavy rainfall and waterlogging,Release Trichogramma parasitoids,Biological,ICAR advisory,False,46.7,2025
+80,Okra,Tamil Nadu,South,Fall Armyworm,Insect,February,73.1,High,Unbalanced fertilizer use,Adopt resistant varieties,Cultural,PPQS report,False,73.1,2025
+81,Onion,Haryana,North,Fruit Borer,Insect,September,66.1,High,Uncontrolled weeds,Apply recommended fungicides,Chemical,State Agriculture Dept,False,66.1,2025
+82,Maize,Punjab,North,Tikka Leaf Spot,Fungal,December,16.1,Low,Poor drainage,Integrated Pest Management practices,IPM,State Agriculture Dept,False,16.1,2025
+83,Banana,Gujarat,West,Coffee Berry Borer,Insect,October,85.8,High,Unbalanced fertilizer use,Integrated Pest Management practices,IPM,PPQS report,False,85.8,2025
+84,Chilli,Madhya Pradesh,Central,Tea Mosquito Bug,Insect,May,26.2,Low,Unbalanced fertilizer use,Use sticky traps and neem oil,IPM,Farmer field report,False,26.2,2025
+85,Banana,Kerala,South,Sigatoka,Fungal,February,16.3,Low,Heavy rainfall and waterlogging,Release Trichogramma parasitoids,Biological,ICAR advisory,False,16.3,2025
+86,Apple,Telangana,South,Tea Mosquito Bug,Insect,August,35.2,Medium,Excess nitrogen use,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,35.2,2025
+87,Okra,Maharashtra,West,Sigatoka,Fungal,September,27.8,Low,Excess nitrogen use,Apply recommended fungicides,Chemical,ICAR advisory,False,27.8,2025
+88,Mango,Haryana,North,Whitefly,Insect,September,,,Invasive pest spread,Integrated Pest Management practices,IPM,PPQS report,True,43.3,2025
+89,Cotton,Assam,East,Whitefly,Insect,June,10.9,Low,Unbalanced fertilizer use,Integrated Pest Management practices,IPM,Farmer field report,False,10.9,2025
+90,Cotton,West Bengal,East,Fruit Borer,Insect,October,25.0,Low,Uncontrolled weeds,Apply recommended fungicides,Chemical,State Agriculture Dept,False,25.0,2025
+91,Okra,Uttarakhand,North,Fruit Borer,Insect,June,43.9,Medium,High temperature stress,Adopt resistant varieties,Cultural,State Agriculture Dept,False,43.9,2025
+92,Banana,Punjab,North,Fall Armyworm,Insect,August,20.5,Low,Excess nitrogen use,Adopt resistant varieties,Cultural,PPQS report,False,20.5,2025
+93,Cotton,Uttar Pradesh,North,Sigatoka,Fungal,April,78.5,High,Unbalanced fertilizer use,Apply recommended fungicides,Chemical,PPQS report,False,78.5,2025
+94,Okra,Andhra Pradesh,South,Blast,Fungal,July,89.6,High,Delayed sowing,Release Trichogramma parasitoids,Biological,State Agriculture Dept,False,89.6,2025
+95,Okra,Bihar,East,Fall Armyworm,Insect,September,13.8,Low,Continuous monocropping,Adopt resistant varieties,Cultural,PPQS report,False,13.8,2025
+96,Wheat,Gujarat,West,Tea Mosquito Bug,Insect,May,60.4,High,Heavy rainfall and waterlogging,Adopt resistant varieties,Cultural,State Agriculture Dept,False,60.4,2025
+97,Groundnut,Odisha,East,Fruit Borer,Insect,September,74.8,High,Invasive pest spread,Use pheromone traps and neem spray,Biological,KVK alert,False,74.8,2025
+98,Cotton,Odisha,East,Tea Mosquito Bug,Insect,November,25.9,Low,Excess nitrogen use,Adopt resistant varieties,Cultural,Farmer field report,False,25.9,2025
+99,Tomato,Bihar,East,Fruit Borer,Insect,June,49.0,Medium,Heavy rainfall and waterlogging,Use pheromone traps and neem spray,Biological,KVK alert,False,49.0,2025
+100,Coffee,Bihar,East,Whitefly,Insect,November,79.5,High,Invasive pest spread,Integrated Pest Management practices,IPM,Farmer field report,False,79.5,2025
+101,Tea,Punjab,North,Tea Mosquito Bug,Insect,February,37.5,Medium,Invasive pest spread,Crop rotation and field sanitation,Cultural,State Agriculture Dept,False,37.5,2025
+102,Groundnut,Uttarakhand,North,Tikka Leaf Spot,Fungal,July,45.6,Medium,Invasive pest spread,Adopt resistant varieties,Cultural,Farmer field report,False,45.6,2025
+103,Mango,Rajasthan,West,Late Blight,Fungal,March,11.8,Low,Unbalanced fertilizer use,Adopt resistant varieties,Cultural,State Agriculture Dept,False,11.8,2025
+104,Maize,Gujarat,West,Blast,Fungal,July,15.1,Low,Heavy rainfall and waterlogging,Release Trichogramma parasitoids,Biological,ICAR advisory,False,15.1,2025
+105,Rice,Punjab,North,Aphids,Insect,February,59.4,Medium,Continuous monocropping,Adopt resistant varieties,Cultural,KVK alert,False,59.4,2025
+106,Soybean,Madhya Pradesh,Central,Leaf Rust,Fungal,December,60.1,High,Poor drainage,Release Trichogramma parasitoids,Biological,PPQS report,False,60.1,2025
+107,Rice,Telangana,South,Tikka Leaf Spot,Fungal,June,36.0,Medium,Heavy rainfall and waterlogging,Integrated Pest Management practices,IPM,Farmer field report,False,36.0,2025
+108,Groundnut,Jharkhand,East,Whitefly,Insect,March,65.8,High,Poor drainage,Release Trichogramma parasitoids,Biological,Farmer field report,False,65.8,2025
+109,Brinjal,Chhattisgarh,Central,Late Blight,Fungal,September,52.7,Medium,Invasive pest spread,Integrated Pest Management practices,IPM,Farmer field report,False,52.7,2025
+110,Chilli,Karnataka,South,Whitefly,Insect,May,30.8,Medium,Uncontrolled weeds,Use pheromone traps and neem spray,Biological,ICAR advisory,False,30.8,2025
+111,Mango,Kerala,South,Fruit Borer,Insect,May,10.7,Low,Heavy rainfall and waterlogging,Use sticky traps and neem oil,IPM,KVK alert,False,10.7,2025
+112,Soybean,Andhra Pradesh,South,Sigatoka,Fungal,July,57.8,Medium,High humidity,Release Trichogramma parasitoids,Biological,State Agriculture Dept,False,57.8,2025
+113,Potato,Haryana,North,Coffee Berry Borer,Insect,September,30.0,Medium,High temperature stress,Use sticky traps and neem oil,IPM,KVK alert,False,30.0,2025
+114,Chilli,Uttar Pradesh,North,Stem Borer,Insect,July,51.3,Medium,Excess nitrogen use,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,51.3,2025
+115,Soybean,Jharkhand,East,Sigatoka,Fungal,May,78.3,High,Poor drainage,Apply recommended fungicides,Chemical,State Agriculture Dept,False,78.3,2025
+116,Cotton,Rajasthan,West,Thrips,Insect,August,59.8,Medium,Unbalanced fertilizer use,Crop rotation and field sanitation,Cultural,ICAR advisory,False,59.8,2025
+117,Sugarcane,Telangana,South,Aphids,Insect,January,18.2,Low,Uncontrolled weeds,Apply recommended fungicides,Chemical,KVK alert,False,18.2,2025
+118,Rice,Madhya Pradesh,Central,Stem Borer,Insect,March,,,Unbalanced fertilizer use,Crop rotation and field sanitation,Cultural,KVK alert,True,37.5,2025
+119,Okra,Odisha,East,Whitefly,Insect,December,36.4,Medium,Poor drainage,Use pheromone traps and neem spray,Biological,State Agriculture Dept,False,36.4,2025
+120,Pigeonpea,Karnataka,South,Aphids,Insect,August,81.7,High,Uncontrolled weeds,Use sticky traps and neem oil,IPM,KVK alert,False,81.7,2025
+121,Rice,Tamil Nadu,South,Sigatoka,Fungal,December,71.7,High,Heavy rainfall and waterlogging,Apply recommended fungicides,Chemical,ICAR advisory,False,71.7,2025
+122,Potato,Rajasthan,West,Wilt,Fungal,February,88.6,High,Heavy rainfall and waterlogging,Integrated Pest Management practices,IPM,State Agriculture Dept,False,88.6,2025
+123,Onion,Maharashtra,West,Tikka Leaf Spot,Fungal,December,,,Delayed sowing,Release Trichogramma parasitoids,Biological,ICAR advisory,True,35.1,2025
+124,Soybean,Gujarat,West,Fruit Borer,Insect,January,27.4,Low,Continuous monocropping,Apply recommended fungicides,Chemical,KVK alert,False,27.4,2025
+125,Onion,Andhra Pradesh,South,Blast,Fungal,May,41.7,Medium,Unbalanced fertilizer use,Use pheromone traps and neem spray,Biological,ICAR advisory,False,41.7,2025
+126,Tea,Himachal Pradesh,North,Wilt,Fungal,October,71.7,High,Unbalanced fertilizer use,Apply recommended fungicides,Chemical,KVK alert,False,71.7,2025
+127,Maize,Uttarakhand,North,Fruit Borer,Insect,November,38.4,Medium,Poor drainage,Adopt resistant varieties,Cultural,Farmer field report,False,38.4,2025
+128,Cotton,Kerala,South,Whitefly,Insect,April,54.7,Medium,Invasive pest spread,Use sticky traps and neem oil,IPM,KVK alert,False,54.7,2025
+129,Potato,Andhra Pradesh,South,Wilt,Fungal,July,20.8,Low,High humidity,Integrated Pest Management practices,IPM,KVK alert,False,20.8,2025
+130,Apple,Bihar,East,Aphids,Insect,December,55.3,Medium,Delayed sowing,Crop rotation and field sanitation,Cultural,State Agriculture Dept,False,55.3,2025
+131,Brinjal,Uttar Pradesh,North,Tea Mosquito Bug,Insect,October,54.4,Medium,Continuous monocropping,Release Trichogramma parasitoids,Biological,PPQS report,False,54.4,2025
+132,Brinjal,Bihar,East,Tea Mosquito Bug,Insect,May,46.3,Medium,Delayed sowing,Integrated Pest Management practices,IPM,PPQS report,False,46.3,2025
+133,Rice,Uttarakhand,North,Tea Mosquito Bug,Insect,June,29.1,Low,Continuous monocropping,Adopt resistant varieties,Cultural,Farmer field report,False,29.1,2025
+134,Pigeonpea,Gujarat,West,Aphids,Insect,November,54.1,Medium,Excess nitrogen use,Crop rotation and field sanitation,Cultural,State Agriculture Dept,False,54.1,2025
+135,Mustard,West Bengal,East,Stem Borer,Insect,February,15.3,Low,Poor drainage,Apply recommended fungicides,Chemical,ICAR advisory,False,15.3,2025
+136,Potato,Tamil Nadu,South,Whitefly,Insect,April,55.7,Medium,High temperature stress,Adopt resistant varieties,Cultural,KVK alert,False,55.7,2025
+137,Mango,Uttarakhand,North,Wilt,Fungal,October,39.3,Medium,Excess nitrogen use,Adopt resistant varieties,Cultural,ICAR advisory,False,39.3,2025
+138,Rice,Gujarat,West,Tikka Leaf Spot,Fungal,August,76.6,High,Heavy rainfall and waterlogging,Use sticky traps and neem oil,IPM,ICAR advisory,False,76.6,2025
+139,Banana,Jharkhand,East,Wilt,Fungal,July,73.5,High,High humidity,Use sticky traps and neem oil,IPM,Farmer field report,False,73.5,2025
+140,Groundnut,Assam,East,Brown Planthopper,Insect,December,34.3,Medium,Unbalanced fertilizer use,Release Trichogramma parasitoids,Biological,ICAR advisory,False,34.3,2025
+141,Cotton,Madhya Pradesh,Central,Aphids,Insect,July,52.1,Medium,Unbalanced fertilizer use,Release Trichogramma parasitoids,Biological,PPQS report,False,52.1,2025
+142,Apple,Jharkhand,East,Late Blight,Fungal,December,61.1,High,Invasive pest spread,Adopt resistant varieties,Cultural,KVK alert,False,61.1,2025
+143,Mustard,Tamil Nadu,South,Blast,Fungal,March,50.4,Medium,Poor drainage,Release Trichogramma parasitoids,Biological,Farmer field report,False,50.4,2025
+144,Brinjal,Odisha,East,Coffee Berry Borer,Insect,June,89.7,High,Invasive pest spread,Integrated Pest Management practices,IPM,KVK alert,False,89.7,2025
+145,Onion,Uttarakhand,North,Leaf Rust,Fungal,October,40.0,Medium,Delayed sowing,Adopt resistant varieties,Cultural,State Agriculture Dept,False,40.0,2025
+146,Banana,Rajasthan,West,Whitefly,Insect,July,,,High humidity,Crop rotation and field sanitation,Cultural,Farmer field report,True,25.7,2025
+147,Sugarcane,Bihar,East,Brown Planthopper,Insect,May,27.2,Low,Invasive pest spread,Use pheromone traps and neem spray,Biological,State Agriculture Dept,False,27.2,2025
+148,Apple,Assam,East,Aphids,Insect,October,22.4,Low,High humidity,Integrated Pest Management practices,IPM,State Agriculture Dept,False,22.4,2025
+149,Sugarcane,Kerala,South,Fall Armyworm,Insect,June,30.0,Medium,Uncontrolled weeds,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,30.0,2025
+150,Maize,Chhattisgarh,Central,Late Blight,Fungal,October,68.7,High,Invasive pest spread,Use sticky traps and neem oil,IPM,KVK alert,False,68.7,2025
+151,Tomato,Himachal Pradesh,North,Tea Mosquito Bug,Insect,December,75.6,High,Continuous monocropping,Release Trichogramma parasitoids,Biological,State Agriculture Dept,False,75.6,2025
+152,Wheat,Chhattisgarh,Central,Late Blight,Fungal,February,83.7,High,Invasive pest spread,Crop rotation and field sanitation,Cultural,KVK alert,False,83.7,2025
+153,Mustard,Tamil Nadu,South,Tea Mosquito Bug,Insect,April,78.0,High,High humidity,Adopt resistant varieties,Cultural,KVK alert,False,78.0,2025
+154,Wheat,Bihar,East,Aphids,Insect,January,55.2,Medium,Invasive pest spread,Release Trichogramma parasitoids,Biological,PPQS report,False,55.2,2025
+155,Sugarcane,Telangana,South,Tikka Leaf Spot,Fungal,December,87.7,High,Excess nitrogen use,Release Trichogramma parasitoids,Biological,Farmer field report,False,87.7,2025
+156,Maize,Madhya Pradesh,Central,Late Blight,Fungal,May,21.8,Low,Invasive pest spread,Use pheromone traps and neem spray,Biological,KVK alert,False,21.8,2025
+157,Tea,Telangana,South,Aphids,Insect,July,41.9,Medium,High temperature stress,Use sticky traps and neem oil,IPM,PPQS report,False,41.9,2025
+158,Sugarcane,Himachal Pradesh,North,Aphids,Insect,April,62.2,High,Unbalanced fertilizer use,Release Trichogramma parasitoids,Biological,Farmer field report,False,62.2,2025
+159,Mango,Madhya Pradesh,Central,Leaf Rust,Fungal,February,44.4,Medium,Excess nitrogen use,Use pheromone traps and neem spray,Biological,ICAR advisory,False,44.4,2025
+160,Mustard,Haryana,North,Fruit Borer,Insect,June,37.6,Medium,High humidity,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,37.6,2025
+161,Tomato,Odisha,East,Thrips,Insect,August,45.2,Medium,Unbalanced fertilizer use,Apply recommended fungicides,Chemical,State Agriculture Dept,False,45.2,2025
+162,Sugarcane,Karnataka,South,Stem Borer,Insect,December,,,Excess nitrogen use,Apply recommended fungicides,Chemical,State Agriculture Dept,True,25.5,2025
+163,Cotton,Bihar,East,Whitefly,Insect,August,,,Unbalanced fertilizer use,Adopt resistant varieties,Cultural,Farmer field report,True,33.5,2025
+164,Apple,Assam,East,Sigatoka,Fungal,May,59.8,Medium,Poor drainage,Adopt resistant varieties,Cultural,ICAR advisory,False,59.8,2025
+165,Pigeonpea,Chhattisgarh,Central,Coffee Berry Borer,Insect,November,30.4,Medium,High humidity,Crop rotation and field sanitation,Cultural,PPQS report,False,30.4,2025
+166,Coffee,Uttar Pradesh,North,Brown Planthopper,Insect,August,10.7,Low,High temperature stress,Adopt resistant varieties,Cultural,State Agriculture Dept,False,10.7,2025
+167,Banana,Tamil Nadu,South,Brown Planthopper,Insect,May,62.0,High,Unbalanced fertilizer use,Integrated Pest Management practices,IPM,Farmer field report,False,62.0,2025
+168,Cotton,West Bengal,East,Whitefly,Insect,October,24.9,Low,Delayed sowing,Integrated Pest Management practices,IPM,Farmer field report,False,24.9,2025
+169,Rice,Telangana,South,Leaf Rust,Fungal,September,49.2,Medium,Poor drainage,Use pheromone traps and neem spray,Biological,State Agriculture Dept,False,49.2,2025
+170,Banana,Odisha,East,Tikka Leaf Spot,Fungal,May,88.3,High,Delayed sowing,Crop rotation and field sanitation,Cultural,ICAR advisory,False,88.3,2025
+171,Groundnut,Punjab,North,Coffee Berry Borer,Insect,January,85.9,High,Unbalanced fertilizer use,Apply recommended fungicides,Chemical,State Agriculture Dept,False,85.9,2025
+172,Pigeonpea,Kerala,South,Stem Borer,Insect,December,86.8,High,Excess nitrogen use,Use sticky traps and neem oil,IPM,PPQS report,False,86.8,2025
+173,Mustard,Madhya Pradesh,Central,Thrips,Insect,March,35.0,Medium,Excess nitrogen use,Crop rotation and field sanitation,Cultural,KVK alert,False,35.0,2025
+174,Apple,Kerala,South,Leaf Rust,Fungal,November,53.3,Medium,Unbalanced fertilizer use,Use sticky traps and neem oil,IPM,PPQS report,False,53.3,2025
+175,Soybean,Assam,East,Coffee Berry Borer,Insect,March,82.7,High,Poor drainage,Adopt resistant varieties,Cultural,Farmer field report,False,82.7,2025
+176,Tomato,West Bengal,East,Stem Borer,Insect,September,67.6,High,Poor drainage,Crop rotation and field sanitation,Cultural,PPQS report,False,67.6,2025
+177,Rice,West Bengal,East,Coffee Berry Borer,Insect,July,34.3,Medium,Uncontrolled weeds,Apply recommended fungicides,Chemical,PPQS report,False,34.3,2025
+178,Cotton,Kerala,South,Blast,Fungal,January,59.0,Medium,Uncontrolled weeds,Release Trichogramma parasitoids,Biological,Farmer field report,False,59.0,2025
+179,Coffee,Madhya Pradesh,Central,Thrips,Insect,April,12.1,Low,Continuous monocropping,Adopt resistant varieties,Cultural,KVK alert,False,12.1,2025
+180,Sugarcane,Assam,East,Tea Mosquito Bug,Insect,October,62.0,High,Poor drainage,Use sticky traps and neem oil,IPM,KVK alert,False,62.0,2025
+181,Okra,Himachal Pradesh,North,Blast,Fungal,March,12.6,Low,High humidity,Crop rotation and field sanitation,Cultural,KVK alert,False,12.6,2025
+182,Chilli,Gujarat,West,Sigatoka,Fungal,April,84.2,High,Heavy rainfall and waterlogging,Use sticky traps and neem oil,IPM,Farmer field report,False,84.2,2025
+183,Okra,West Bengal,East,Tea Mosquito Bug,Insect,August,44.2,Medium,High humidity,Release Trichogramma parasitoids,Biological,KVK alert,False,44.2,2025
+184,Onion,Punjab,North,Thrips,Insect,December,52.9,Medium,High humidity,Release Trichogramma parasitoids,Biological,ICAR advisory,False,52.9,2025
+185,Brinjal,Rajasthan,West,Tea Mosquito Bug,Insect,January,29.7,Low,Delayed sowing,Integrated Pest Management practices,IPM,ICAR advisory,False,29.7,2025
+186,Apple,Punjab,North,Aphids,Insect,November,25.2,Low,Heavy rainfall and waterlogging,Integrated Pest Management practices,IPM,State Agriculture Dept,False,25.2,2025
+187,Soybean,Rajasthan,West,Blast,Fungal,July,83.5,High,Delayed sowing,Apply recommended fungicides,Chemical,KVK alert,False,83.5,2025
+188,Brinjal,Karnataka,South,Wilt,Fungal,September,72.3,High,Delayed sowing,Apply recommended fungicides,Chemical,KVK alert,False,72.3,2025
+189,Mustard,West Bengal,East,Whitefly,Insect,January,57.2,Medium,Unbalanced fertilizer use,Integrated Pest Management practices,IPM,ICAR advisory,False,57.2,2025
+190,Groundnut,West Bengal,East,Wilt,Fungal,November,73.7,High,Continuous monocropping,Use pheromone traps and neem spray,Biological,ICAR advisory,False,73.7,2025
+191,Brinjal,Odisha,East,Stem Borer,Insect,September,68.1,High,Delayed sowing,Release Trichogramma parasitoids,Biological,PPQS report,False,68.1,2025
+192,Pigeonpea,Jharkhand,East,Late Blight,Fungal,January,83.0,High,Excess nitrogen use,Use sticky traps and neem oil,IPM,PPQS report,False,83.0,2025
+193,Tomato,Kerala,South,Blast,Fungal,December,,,Uncontrolled weeds,Crop rotation and field sanitation,Cultural,KVK alert,True,36.6,2025
+194,Tomato,Tamil Nadu,South,Coffee Berry Borer,Insect,March,10.3,Low,Uncontrolled weeds,Use pheromone traps and neem spray,Biological,KVK alert,False,10.3,2025
+195,Okra,Himachal Pradesh,North,Aphids,Insect,January,49.5,Medium,Unbalanced fertilizer use,Release Trichogramma parasitoids,Biological,KVK alert,False,49.5,2025
+196,Brinjal,Haryana,North,Whitefly,Insect,February,10.5,Low,Delayed sowing,Crop rotation and field sanitation,Cultural,Farmer field report,False,10.5,2025
+197,Apple,Gujarat,West,Brown Planthopper,Insect,March,62.3,High,High humidity,Apply recommended fungicides,Chemical,ICAR advisory,False,62.3,2025
+198,Tea,Uttarakhand,North,Fall Armyworm,Insect,June,13.9,Low,High temperature stress,Apply recommended fungicides,Chemical,PPQS report,False,13.9,2025
+199,Soybean,Uttarakhand,North,Tikka Leaf Spot,Fungal,December,55.8,Medium,Delayed sowing,Apply recommended fungicides,Chemical,KVK alert,False,55.8,2025
+200,Tea,Odisha,East,Coffee Berry Borer,Insect,January,33.9,Medium,Invasive pest spread,Integrated Pest Management practices,IPM,ICAR advisory,False,33.9,2025
+201,Mustard,Jharkhand,East,Stem Borer,Insect,May,19.8,Low,Uncontrolled weeds,Crop rotation and field sanitation,Cultural,Farmer field report,False,19.8,2025
+202,Mustard,Assam,East,Leaf Rust,Fungal,December,14.7,Low,Excess nitrogen use,Adopt resistant varieties,Cultural,Farmer field report,False,14.7,2025
+203,Maize,Himachal Pradesh,North,Wilt,Fungal,December,73.1,High,Uncontrolled weeds,Integrated Pest Management practices,IPM,Farmer field report,False,73.1,2025
+204,Onion,Uttar Pradesh,North,Aphids,Insect,October,38.3,Medium,Poor drainage,Release Trichogramma parasitoids,Biological,Farmer field report,False,38.3,2025
+205,Okra,Assam,East,Wilt,Fungal,November,74.6,High,Excess nitrogen use,Apply recommended fungicides,Chemical,State Agriculture Dept,False,74.6,2025
+206,Potato,Andhra Pradesh,South,Stem Borer,Insect,January,73.7,High,Unbalanced fertilizer use,Use sticky traps and neem oil,IPM,Farmer field report,False,73.7,2025
+207,Mustard,Haryana,North,Brown Planthopper,Insect,June,74.5,High,Unbalanced fertilizer use,Use pheromone traps and neem spray,Biological,PPQS report,False,74.5,2025
+208,Soybean,Uttar Pradesh,North,Sigatoka,Fungal,February,50.5,Medium,Invasive pest spread,Use sticky traps and neem oil,IPM,ICAR advisory,False,50.5,2025
+209,Cotton,West Bengal,East,Fruit Borer,Insect,July,59.3,Medium,High humidity,Use sticky traps and neem oil,IPM,PPQS report,False,59.3,2025
+210,Potato,West Bengal,East,Tea Mosquito Bug,Insect,June,48.3,Medium,Heavy rainfall and waterlogging,Use sticky traps and neem oil,IPM,ICAR advisory,False,48.3,2025
+211,Sugarcane,Himachal Pradesh,North,Blast,Fungal,November,79.2,High,Invasive pest spread,Integrated Pest Management practices,IPM,KVK alert,False,79.2,2025
+212,Wheat,Assam,East,Fall Armyworm,Insect,October,35.2,Medium,Delayed sowing,Use pheromone traps and neem spray,Biological,PPQS report,False,35.2,2025
+213,Tea,West Bengal,East,Sigatoka,Fungal,June,21.9,Low,High humidity,Crop rotation and field sanitation,Cultural,KVK alert,False,21.9,2025
+214,Apple,Maharashtra,West,Thrips,Insect,October,57.6,Medium,Uncontrolled weeds,Adopt resistant varieties,Cultural,State Agriculture Dept,False,57.6,2025
+215,Wheat,Uttar Pradesh,North,Late Blight,Fungal,February,29.0,Low,Heavy rainfall and waterlogging,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,29.0,2025
+216,Potato,Assam,East,Fall Armyworm,Insect,March,72.8,High,Unbalanced fertilizer use,Use pheromone traps and neem spray,Biological,KVK alert,False,72.8,2025
+217,Mango,Andhra Pradesh,South,Sigatoka,Fungal,August,22.3,Low,Invasive pest spread,Integrated Pest Management practices,IPM,Farmer field report,False,22.3,2025
+218,Soybean,West Bengal,East,Blast,Fungal,February,85.0,High,Poor drainage,Apply recommended fungicides,Chemical,ICAR advisory,False,85.0,2025
+219,Brinjal,Punjab,North,Wilt,Fungal,September,34.9,Medium,High humidity,Adopt resistant varieties,Cultural,Farmer field report,False,34.9,2025
+220,Maize,West Bengal,East,Whitefly,Insect,January,71.3,High,Uncontrolled weeds,Use pheromone traps and neem spray,Biological,Farmer field report,False,71.3,2025
+221,Soybean,Gujarat,West,Fruit Borer,Insect,April,32.1,Medium,Invasive pest spread,Use sticky traps and neem oil,IPM,KVK alert,False,32.1,2025
+222,Cotton,Uttar Pradesh,North,Blast,Fungal,March,11.2,Low,Excess nitrogen use,Release Trichogramma parasitoids,Biological,Farmer field report,False,11.2,2025
+223,Cotton,Gujarat,West,Aphids,Insect,June,31.7,Medium,Uncontrolled weeds,Release Trichogramma parasitoids,Biological,PPQS report,False,31.7,2025
+224,Tomato,Karnataka,South,Fall Armyworm,Insect,October,53.2,Medium,High humidity,Apply recommended fungicides,Chemical,ICAR advisory,False,53.2,2025
+225,Okra,Telangana,South,Stem Borer,Insect,July,,,High temperature stress,Integrated Pest Management practices,IPM,PPQS report,True,53.2,2025
+226,Tea,Rajasthan,West,Thrips,Insect,June,75.4,High,Delayed sowing,Use pheromone traps and neem spray,Biological,KVK alert,False,75.4,2025
+227,Tea,Kerala,South,Stem Borer,Insect,December,46.4,Medium,Heavy rainfall and waterlogging,Integrated Pest Management practices,IPM,PPQS report,False,46.4,2025
+228,Chilli,Kerala,South,Tea Mosquito Bug,Insect,October,39.1,Medium,Poor drainage,Adopt resistant varieties,Cultural,State Agriculture Dept,False,39.1,2025
+229,Onion,Rajasthan,West,Whitefly,Insect,January,19.0,Low,Heavy rainfall and waterlogging,Integrated Pest Management practices,IPM,PPQS report,False,19.0,2025
+230,Soybean,Odisha,East,Thrips,Insect,October,18.2,Low,Continuous monocropping,Crop rotation and field sanitation,Cultural,Farmer field report,False,18.2,2025
+231,Maize,Bihar,East,Aphids,Insect,August,43.1,Medium,Excess nitrogen use,Apply recommended fungicides,Chemical,Farmer field report,False,43.1,2025
+232,Tomato,Himachal Pradesh,North,Late Blight,Fungal,February,75.1,High,Excess nitrogen use,Integrated Pest Management practices,IPM,KVK alert,False,75.1,2025
+233,Tea,West Bengal,East,Aphids,Insect,December,63.0,High,Continuous monocropping,Adopt resistant varieties,Cultural,Farmer field report,False,63.0,2025
+234,Okra,Tamil Nadu,South,Thrips,Insect,October,54.4,Medium,Heavy rainfall and waterlogging,Apply recommended fungicides,Chemical,State Agriculture Dept,False,54.4,2025
+235,Pigeonpea,Karnataka,South,Thrips,Insect,February,57.7,Medium,High temperature stress,Crop rotation and field sanitation,Cultural,KVK alert,False,57.7,2025
+236,Wheat,Karnataka,South,Leaf Rust,Fungal,March,82.3,High,High humidity,Use sticky traps and neem oil,IPM,PPQS report,False,82.3,2025
+237,Sugarcane,Rajasthan,West,Aphids,Insect,May,56.2,Medium,Unbalanced fertilizer use,Apply recommended fungicides,Chemical,State Agriculture Dept,False,56.2,2025
+238,Soybean,Chhattisgarh,Central,Sigatoka,Fungal,November,85.5,High,High temperature stress,Adopt resistant varieties,Cultural,State Agriculture Dept,False,85.5,2025
+239,Maize,Chhattisgarh,Central,Brown Planthopper,Insect,October,42.3,Medium,Poor drainage,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,42.3,2025
+240,Wheat,Odisha,East,Coffee Berry Borer,Insect,September,10.1,Low,Delayed sowing,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,10.1,2025
+241,Cotton,Bihar,East,Tea Mosquito Bug,Insect,January,66.2,High,High temperature stress,Adopt resistant varieties,Cultural,State Agriculture Dept,False,66.2,2025
+242,Pigeonpea,Punjab,North,Late Blight,Fungal,July,63.0,High,Heavy rainfall and waterlogging,Apply recommended fungicides,Chemical,PPQS report,False,63.0,2025
+243,Apple,Punjab,North,Tea Mosquito Bug,Insect,June,22.3,Low,Poor drainage,Apply recommended fungicides,Chemical,ICAR advisory,False,22.3,2025
+244,Maize,Andhra Pradesh,South,Blast,Fungal,December,62.6,High,Poor drainage,Use pheromone traps and neem spray,Biological,PPQS report,False,62.6,2025
+245,Mustard,Rajasthan,West,Coffee Berry Borer,Insect,December,44.1,Medium,Poor drainage,Integrated Pest Management practices,IPM,Farmer field report,False,44.1,2025
+246,Mustard,Jharkhand,East,Tea Mosquito Bug,Insect,August,28.1,Low,High temperature stress,Release Trichogramma parasitoids,Biological,ICAR advisory,False,28.1,2025
+247,Tea,Himachal Pradesh,North,Tea Mosquito Bug,Insect,December,50.1,Medium,High temperature stress,Release Trichogramma parasitoids,Biological,Farmer field report,False,50.1,2025
+248,Banana,Telangana,South,Brown Planthopper,Insect,October,39.5,Medium,Excess nitrogen use,Integrated Pest Management practices,IPM,ICAR advisory,False,39.5,2025
+249,Sugarcane,Assam,East,Tea Mosquito Bug,Insect,May,16.3,Low,Excess nitrogen use,Use pheromone traps and neem spray,Biological,PPQS report,False,16.3,2025
+250,Okra,Karnataka,South,Tikka Leaf Spot,Fungal,November,56.4,Medium,Excess nitrogen use,Use pheromone traps and neem spray,Biological,State Agriculture Dept,False,56.4,2025
+251,Apple,Andhra Pradesh,South,Whitefly,Insect,August,47.5,Medium,Invasive pest spread,Integrated Pest Management practices,IPM,State Agriculture Dept,False,47.5,2025
+252,Soybean,Bihar,East,Blast,Fungal,January,57.8,Medium,Uncontrolled weeds,Adopt resistant varieties,Cultural,Farmer field report,False,57.8,2025
+253,Groundnut,Telangana,South,Tikka Leaf Spot,Fungal,August,55.8,Medium,Uncontrolled weeds,Use sticky traps and neem oil,IPM,Farmer field report,False,55.8,2025
+254,Rice,Bihar,East,Whitefly,Insect,February,16.1,Low,Uncontrolled weeds,Crop rotation and field sanitation,Cultural,PPQS report,False,16.1,2025
+255,Coffee,Uttar Pradesh,North,Fall Armyworm,Insect,May,,,Continuous monocropping,Release Trichogramma parasitoids,Biological,PPQS report,True,61.4,2025
+256,Sugarcane,Rajasthan,West,Fruit Borer,Insect,March,66.1,High,Heavy rainfall and waterlogging,Apply recommended fungicides,Chemical,Farmer field report,False,66.1,2025
+257,Wheat,West Bengal,East,Stem Borer,Insect,March,75.7,High,Heavy rainfall and waterlogging,Use sticky traps and neem oil,IPM,KVK alert,False,75.7,2025
+258,Pigeonpea,Madhya Pradesh,Central,Tikka Leaf Spot,Fungal,August,23.4,Low,Excess nitrogen use,Adopt resistant varieties,Cultural,State Agriculture Dept,False,23.4,2025
+259,Wheat,Uttar Pradesh,North,Sigatoka,Fungal,February,,,Heavy rainfall and waterlogging,Integrated Pest Management practices,IPM,KVK alert,True,37.1,2025
+260,Apple,Madhya Pradesh,Central,Late Blight,Fungal,November,48.0,Medium,Poor drainage,Release Trichogramma parasitoids,Biological,KVK alert,False,48.0,2025
+261,Rice,Bihar,East,Coffee Berry Borer,Insect,August,35.3,Medium,Delayed sowing,Adopt resistant varieties,Cultural,ICAR advisory,False,35.3,2025
+262,Cotton,Jharkhand,East,Tikka Leaf Spot,Fungal,June,44.5,Medium,Uncontrolled weeds,Crop rotation and field sanitation,Cultural,State Agriculture Dept,False,44.5,2025
+263,Groundnut,Tamil Nadu,South,Fall Armyworm,Insect,November,46.9,Medium,Unbalanced fertilizer use,Adopt resistant varieties,Cultural,Farmer field report,False,46.9,2025
+264,Potato,Assam,East,Fruit Borer,Insect,November,24.4,Low,Delayed sowing,Use pheromone traps and neem spray,Biological,ICAR advisory,False,24.4,2025
+265,Maize,Andhra Pradesh,South,Late Blight,Fungal,February,64.8,High,Invasive pest spread,Apply recommended fungicides,Chemical,State Agriculture Dept,False,64.8,2025
+266,Groundnut,Gujarat,West,Brown Planthopper,Insect,January,14.6,Low,Excess nitrogen use,Adopt resistant varieties,Cultural,PPQS report,False,14.6,2025
+267,Coffee,Tamil Nadu,South,Wilt,Fungal,February,58.4,Medium,High temperature stress,Adopt resistant varieties,Cultural,Farmer field report,False,58.4,2025
+268,Tomato,Tamil Nadu,South,Wilt,Fungal,March,47.4,Medium,Continuous monocropping,Adopt resistant varieties,Cultural,KVK alert,False,47.4,2025
+269,Groundnut,Haryana,North,Wilt,Fungal,November,35.9,Medium,Poor drainage,Use sticky traps and neem oil,IPM,ICAR advisory,False,35.9,2025
+270,Groundnut,Telangana,South,Late Blight,Fungal,July,14.8,Low,Uncontrolled weeds,Apply recommended fungicides,Chemical,KVK alert,False,14.8,2025
+271,Maize,Himachal Pradesh,North,Coffee Berry Borer,Insect,April,24.3,Low,Heavy rainfall and waterlogging,Use pheromone traps and neem spray,Biological,PPQS report,False,24.3,2025
+272,Apple,Haryana,North,Leaf Rust,Fungal,October,83.0,High,Uncontrolled weeds,Use pheromone traps and neem spray,Biological,ICAR advisory,False,83.0,2025
+273,Maize,Karnataka,South,Thrips,Insect,December,45.7,Medium,Heavy rainfall and waterlogging,Apply recommended fungicides,Chemical,ICAR advisory,False,45.7,2025
+274,Wheat,Punjab,North,Fall Armyworm,Insect,March,82.4,High,Excess nitrogen use,Use pheromone traps and neem spray,Biological,Farmer field report,False,82.4,2025
+275,Okra,Himachal Pradesh,North,Late Blight,Fungal,July,72.5,High,Continuous monocropping,Release Trichogramma parasitoids,Biological,PPQS report,False,72.5,2025
+276,Rice,Punjab,North,Wilt,Fungal,August,52.8,Medium,Invasive pest spread,Crop rotation and field sanitation,Cultural,State Agriculture Dept,False,52.8,2025
+277,Pigeonpea,Telangana,South,Tikka Leaf Spot,Fungal,November,52.8,Medium,Invasive pest spread,Use pheromone traps and neem spray,Biological,KVK alert,False,52.8,2025
+278,Soybean,Gujarat,West,Blast,Fungal,September,,,High temperature stress,Adopt resistant varieties,Cultural,PPQS report,True,37.0,2025
+279,Pigeonpea,Tamil Nadu,South,Tikka Leaf Spot,Fungal,December,16.8,Low,Heavy rainfall and waterlogging,Adopt resistant varieties,Cultural,PPQS report,False,16.8,2025
+280,Sugarcane,Telangana,South,Leaf Rust,Fungal,January,57.4,Medium,Heavy rainfall and waterlogging,Integrated Pest Management practices,IPM,ICAR advisory,False,57.4,2025
+281,Apple,Bihar,East,Whitefly,Insect,September,74.9,High,High humidity,Use pheromone traps and neem spray,Biological,State Agriculture Dept,False,74.9,2025
+282,Wheat,West Bengal,East,Sigatoka,Fungal,December,,,Continuous monocropping,Apply recommended fungicides,Chemical,Farmer field report,True,43.3,2025
+283,Apple,Kerala,South,Wilt,Fungal,October,15.8,Low,Poor drainage,Integrated Pest Management practices,IPM,ICAR advisory,False,15.8,2025
+284,Okra,Uttarakhand,North,Brown Planthopper,Insect,April,20.4,Low,Poor drainage,Adopt resistant varieties,Cultural,ICAR advisory,False,20.4,2025
+285,Soybean,Tamil Nadu,South,Whitefly,Insect,October,57.3,Medium,Continuous monocropping,Use pheromone traps and neem spray,Biological,KVK alert,False,57.3,2025
+286,Coffee,Uttarakhand,North,Leaf Rust,Fungal,February,44.1,Medium,High temperature stress,Crop rotation and field sanitation,Cultural,ICAR advisory,False,44.1,2025
+287,Tea,Jharkhand,East,Blast,Fungal,June,73.4,High,High humidity,Release Trichogramma parasitoids,Biological,PPQS report,False,73.4,2025
+288,Onion,Karnataka,South,Stem Borer,Insect,May,43.2,Medium,Invasive pest spread,Release Trichogramma parasitoids,Biological,PPQS report,False,43.2,2025
+289,Brinjal,Madhya Pradesh,Central,Coffee Berry Borer,Insect,October,,,Continuous monocropping,Use sticky traps and neem oil,IPM,Farmer field report,True,40.0,2025
+290,Tomato,Andhra Pradesh,South,Coffee Berry Borer,Insect,August,10.6,Low,Continuous monocropping,Adopt resistant varieties,Cultural,Farmer field report,False,10.6,2025
+291,Soybean,Haryana,North,Wilt,Fungal,August,26.5,Low,Uncontrolled weeds,Release Trichogramma parasitoids,Biological,KVK alert,False,26.5,2025
+292,Mustard,Madhya Pradesh,Central,Blast,Fungal,October,57.7,Medium,Heavy rainfall and waterlogging,Release Trichogramma parasitoids,Biological,ICAR advisory,False,57.7,2025
+293,Soybean,Odisha,East,Late Blight,Fungal,January,25.4,Low,Delayed sowing,Use pheromone traps and neem spray,Biological,Farmer field report,False,25.4,2025
+294,Banana,Jharkhand,East,Aphids,Insect,April,60.1,High,Unbalanced fertilizer use,Crop rotation and field sanitation,Cultural,ICAR advisory,False,60.1,2025
+295,Potato,Tamil Nadu,South,Sigatoka,Fungal,March,87.5,High,Heavy rainfall and waterlogging,Integrated Pest Management practices,IPM,PPQS report,False,87.5,2025
+296,Tomato,Telangana,South,Brown Planthopper,Insect,November,26.8,Low,Uncontrolled weeds,Crop rotation and field sanitation,Cultural,Farmer field report,False,26.8,2025
+297,Brinjal,Telangana,South,Stem Borer,Insect,December,,,Delayed sowing,Apply recommended fungicides,Chemical,PPQS report,True,56.4,2025
+298,Okra,Assam,East,Stem Borer,Insect,February,67.7,High,Excess nitrogen use,Release Trichogramma parasitoids,Biological,State Agriculture Dept,False,67.7,2025
+299,Mustard,Gujarat,West,Wilt,Fungal,November,28.4,Low,Continuous monocropping,Crop rotation and field sanitation,Cultural,PPQS report,False,28.4,2025
+300,Cotton,Madhya Pradesh,Central,Wilt,Fungal,July,40.0,Medium,Unbalanced fertilizer use,Use pheromone traps and neem spray,Biological,KVK alert,False,40.0,2025
+301,Tea,Himachal Pradesh,North,Brown Planthopper,Insect,July,84.2,High,Heavy rainfall and waterlogging,Apply recommended fungicides,Chemical,KVK alert,False,84.2,2025
+302,Banana,Kerala,South,Whitefly,Insect,December,38.7,Medium,Uncontrolled weeds,Apply recommended fungicides,Chemical,State Agriculture Dept,False,38.7,2025
+303,Sugarcane,Telangana,South,Wilt,Fungal,October,,,Poor drainage,Use pheromone traps and neem spray,Biological,KVK alert,True,43.3,2025
+304,Tomato,West Bengal,East,Leaf Rust,Fungal,May,73.2,High,Excess nitrogen use,Apply recommended fungicides,Chemical,Farmer field report,False,73.2,2025
+305,Apple,Madhya Pradesh,Central,Stem Borer,Insect,July,49.1,Medium,Unbalanced fertilizer use,Release Trichogramma parasitoids,Biological,KVK alert,False,49.1,2025
+306,Brinjal,Uttar Pradesh,North,Brown Planthopper,Insect,December,79.8,High,Unbalanced fertilizer use,Crop rotation and field sanitation,Cultural,KVK alert,False,79.8,2025
+307,Tea,Madhya Pradesh,Central,Coffee Berry Borer,Insect,October,83.1,High,High humidity,Integrated Pest Management practices,IPM,ICAR advisory,False,83.1,2025
+308,Wheat,Himachal Pradesh,North,Wilt,Fungal,September,,,Delayed sowing,Integrated Pest Management practices,IPM,KVK alert,True,57.4,2025
+309,Cotton,Rajasthan,West,Whitefly,Insect,April,70.2,High,High temperature stress,Apply recommended fungicides,Chemical,PPQS report,False,70.2,2025
+310,Banana,Bihar,East,Leaf Rust,Fungal,November,11.3,Low,Uncontrolled weeds,Apply recommended fungicides,Chemical,KVK alert,False,11.3,2025
+311,Tea,Chhattisgarh,Central,Brown Planthopper,Insect,August,21.1,Low,High temperature stress,Apply recommended fungicides,Chemical,State Agriculture Dept,False,21.1,2025
+312,Brinjal,Andhra Pradesh,South,Tea Mosquito Bug,Insect,November,81.5,High,Invasive pest spread,Release Trichogramma parasitoids,Biological,ICAR advisory,False,81.5,2025
+313,Soybean,Haryana,North,Sigatoka,Fungal,May,59.0,Medium,Excess nitrogen use,Use sticky traps and neem oil,IPM,PPQS report,False,59.0,2025
+314,Maize,Uttarakhand,North,Coffee Berry Borer,Insect,June,14.4,Low,Invasive pest spread,Use pheromone traps and neem spray,Biological,ICAR advisory,False,14.4,2025
+315,Pigeonpea,Odisha,East,Whitefly,Insect,October,,,Invasive pest spread,Apply recommended fungicides,Chemical,Farmer field report,True,53.2,2025
+316,Apple,Gujarat,West,Blast,Fungal,June,19.1,Low,Heavy rainfall and waterlogging,Adopt resistant varieties,Cultural,Farmer field report,False,19.1,2025
+317,Potato,Madhya Pradesh,Central,Fruit Borer,Insect,June,50.3,Medium,High temperature stress,Crop rotation and field sanitation,Cultural,ICAR advisory,False,50.3,2025
+318,Maize,Odisha,East,Fruit Borer,Insect,August,52.1,Medium,Continuous monocropping,Integrated Pest Management practices,IPM,Farmer field report,False,52.1,2025
+319,Apple,Bihar,East,Whitefly,Insect,October,63.9,High,Continuous monocropping,Apply recommended fungicides,Chemical,KVK alert,False,63.9,2025
+320,Maize,Karnataka,South,Late Blight,Fungal,March,86.5,High,Continuous monocropping,Apply recommended fungicides,Chemical,State Agriculture Dept,False,86.5,2025
+321,Cotton,Kerala,South,Whitefly,Insect,March,51.7,Medium,High humidity,Crop rotation and field sanitation,Cultural,KVK alert,False,51.7,2025
+322,Apple,Kerala,South,Whitefly,Insect,June,69.0,High,High humidity,Crop rotation and field sanitation,Cultural,PPQS report,False,69.0,2025
+323,Maize,Andhra Pradesh,South,Tea Mosquito Bug,Insect,April,51.6,Medium,Invasive pest spread,Integrated Pest Management practices,IPM,Farmer field report,False,51.6,2025
+324,Onion,West Bengal,East,Whitefly,Insect,October,52.4,Medium,Delayed sowing,Integrated Pest Management practices,IPM,KVK alert,False,52.4,2025
+325,Soybean,Chhattisgarh,Central,Blast,Fungal,May,30.8,Medium,Heavy rainfall and waterlogging,Crop rotation and field sanitation,Cultural,State Agriculture Dept,False,30.8,2025
+326,Wheat,Kerala,South,Fruit Borer,Insect,May,23.3,Low,Poor drainage,Adopt resistant varieties,Cultural,Farmer field report,False,23.3,2025
+327,Soybean,Maharashtra,West,Blast,Fungal,December,63.3,High,Poor drainage,Apply recommended fungicides,Chemical,PPQS report,False,63.3,2025
+328,Cotton,Telangana,South,Fruit Borer,Insect,October,30.8,Medium,Poor drainage,Apply recommended fungicides,Chemical,Farmer field report,False,30.8,2025
+329,Wheat,West Bengal,East,Fruit Borer,Insect,March,53.2,Medium,Poor drainage,Release Trichogramma parasitoids,Biological,State Agriculture Dept,False,53.2,2025
+330,Cotton,Andhra Pradesh,South,Late Blight,Fungal,August,85.8,High,Invasive pest spread,Apply recommended fungicides,Chemical,ICAR advisory,False,85.8,2025
+331,Apple,Assam,East,Fruit Borer,Insect,November,47.9,Medium,Uncontrolled weeds,Use sticky traps and neem oil,IPM,Farmer field report,False,47.9,2025
+332,Sugarcane,Chhattisgarh,Central,Wilt,Fungal,August,19.0,Low,Heavy rainfall and waterlogging,Use pheromone traps and neem spray,Biological,PPQS report,False,19.0,2025
+333,Apple,Tamil Nadu,South,Fall Armyworm,Insect,January,77.3,High,Heavy rainfall and waterlogging,Crop rotation and field sanitation,Cultural,ICAR advisory,False,77.3,2025
+334,Onion,Telangana,South,Thrips,Insect,November,52.1,Medium,Uncontrolled weeds,Apply recommended fungicides,Chemical,ICAR advisory,False,52.1,2025
+335,Maize,Jharkhand,East,Tea Mosquito Bug,Insect,August,86.6,High,Delayed sowing,Integrated Pest Management practices,IPM,PPQS report,False,86.6,2025
+336,Okra,West Bengal,East,Thrips,Insect,October,14.5,Low,Invasive pest spread,Integrated Pest Management practices,IPM,PPQS report,False,14.5,2025
+337,Mustard,Odisha,East,Late Blight,Fungal,June,,,Invasive pest spread,Crop rotation and field sanitation,Cultural,State Agriculture Dept,True,64.1,2025
+338,Apple,Karnataka,South,Leaf Rust,Fungal,December,69.3,High,High temperature stress,Use sticky traps and neem oil,IPM,KVK alert,False,69.3,2025
+339,Soybean,Maharashtra,West,Sigatoka,Fungal,December,43.9,Medium,High temperature stress,Apply recommended fungicides,Chemical,Farmer field report,False,43.9,2025
+340,Coffee,Karnataka,South,Blast,Fungal,April,89.1,High,Delayed sowing,Crop rotation and field sanitation,Cultural,ICAR advisory,False,89.1,2025
+341,Tea,Punjab,North,Stem Borer,Insect,January,83.2,High,High temperature stress,Apply recommended fungicides,Chemical,Farmer field report,False,83.2,2025
+342,Brinjal,Chhattisgarh,Central,Sigatoka,Fungal,March,76.6,High,Uncontrolled weeds,Release Trichogramma parasitoids,Biological,KVK alert,False,76.6,2025
+343,Wheat,Bihar,East,Tea Mosquito Bug,Insect,October,54.7,Medium,Heavy rainfall and waterlogging,Apply recommended fungicides,Chemical,ICAR advisory,False,54.7,2025
+344,Rice,Kerala,South,Fall Armyworm,Insect,May,76.7,High,Heavy rainfall and waterlogging,Use pheromone traps and neem spray,Biological,State Agriculture Dept,False,76.7,2025
+345,Mustard,Maharashtra,West,Whitefly,Insect,December,12.3,Low,Uncontrolled weeds,Integrated Pest Management practices,IPM,ICAR advisory,False,12.3,2025
+346,Coffee,Odisha,East,Thrips,Insect,August,79.5,High,Heavy rainfall and waterlogging,Adopt resistant varieties,Cultural,ICAR advisory,False,79.5,2025
+347,Banana,Assam,East,Wilt,Fungal,October,,,Uncontrolled weeds,Apply recommended fungicides,Chemical,Farmer field report,True,27.3,2025
+348,Onion,Rajasthan,West,Coffee Berry Borer,Insect,December,23.1,Low,Uncontrolled weeds,Crop rotation and field sanitation,Cultural,KVK alert,False,23.1,2025
+349,Banana,Telangana,South,Fall Armyworm,Insect,May,84.9,High,Delayed sowing,Apply recommended fungicides,Chemical,PPQS report,False,84.9,2025
+350,Cotton,Uttarakhand,North,Sigatoka,Fungal,March,79.8,High,Uncontrolled weeds,Crop rotation and field sanitation,Cultural,State Agriculture Dept,False,79.8,2025
+351,Cotton,Jharkhand,East,Thrips,Insect,June,11.0,Low,Delayed sowing,Crop rotation and field sanitation,Cultural,State Agriculture Dept,False,11.0,2025
+352,Okra,Haryana,North,Fruit Borer,Insect,March,22.4,Low,Unbalanced fertilizer use,Use sticky traps and neem oil,IPM,PPQS report,False,22.4,2025
+353,Apple,Uttarakhand,North,Wilt,Fungal,September,67.0,High,Continuous monocropping,Integrated Pest Management practices,IPM,KVK alert,False,67.0,2025
+354,Maize,Tamil Nadu,South,Tea Mosquito Bug,Insect,March,48.4,Medium,Uncontrolled weeds,Adopt resistant varieties,Cultural,State Agriculture Dept,False,48.4,2025
+355,Sugarcane,Rajasthan,West,Coffee Berry Borer,Insect,October,87.6,High,Poor drainage,Adopt resistant varieties,Cultural,State Agriculture Dept,False,87.6,2025
+356,Rice,Tamil Nadu,South,Leaf Rust,Fungal,March,21.4,Low,Unbalanced fertilizer use,Crop rotation and field sanitation,Cultural,PPQS report,False,21.4,2025
+357,Potato,Kerala,South,Stem Borer,Insect,July,72.7,High,Continuous monocropping,Use pheromone traps and neem spray,Biological,KVK alert,False,72.7,2025
+358,Mustard,Telangana,South,Leaf Rust,Fungal,February,,,Delayed sowing,Release Trichogramma parasitoids,Biological,ICAR advisory,True,43.8,2025
+359,Groundnut,Telangana,South,Stem Borer,Insect,May,70.4,High,Continuous monocropping,Release Trichogramma parasitoids,Biological,PPQS report,False,70.4,2025
+360,Tea,Gujarat,West,Blast,Fungal,November,17.3,Low,Uncontrolled weeds,Release Trichogramma parasitoids,Biological,State Agriculture Dept,False,17.3,2025
+361,Banana,Maharashtra,West,Tea Mosquito Bug,Insect,September,59.0,Medium,Delayed sowing,Release Trichogramma parasitoids,Biological,ICAR advisory,False,59.0,2025
+362,Cotton,Chhattisgarh,Central,Sigatoka,Fungal,January,67.3,High,Uncontrolled weeds,Apply recommended fungicides,Chemical,Farmer field report,False,67.3,2025
+363,Rice,Tamil Nadu,South,Coffee Berry Borer,Insect,April,78.1,High,Heavy rainfall and waterlogging,Crop rotation and field sanitation,Cultural,Farmer field report,False,78.1,2025
+364,Tomato,Rajasthan,West,Tikka Leaf Spot,Fungal,February,38.4,Medium,High temperature stress,Integrated Pest Management practices,IPM,PPQS report,False,38.4,2025
+365,Mango,Madhya Pradesh,Central,Late Blight,Fungal,February,35.1,Medium,Heavy rainfall and waterlogging,Use pheromone traps and neem spray,Biological,Farmer field report,False,35.1,2025
+366,Sugarcane,Himachal Pradesh,North,Sigatoka,Fungal,June,54.6,Medium,High humidity,Use pheromone traps and neem spray,Biological,State Agriculture Dept,False,54.6,2025
+367,Okra,Tamil Nadu,South,Late Blight,Fungal,May,68.9,High,Heavy rainfall and waterlogging,Apply recommended fungicides,Chemical,Farmer field report,False,68.9,2025
+368,Mustard,Bihar,East,Tea Mosquito Bug,Insect,July,15.6,Low,Heavy rainfall and waterlogging,Adopt resistant varieties,Cultural,State Agriculture Dept,False,15.6,2025
+369,Tomato,Andhra Pradesh,South,Tikka Leaf Spot,Fungal,August,41.7,Medium,Delayed sowing,Adopt resistant varieties,Cultural,ICAR advisory,False,41.7,2025
+370,Cotton,Kerala,South,Late Blight,Fungal,July,88.2,High,Poor drainage,Use pheromone traps and neem spray,Biological,State Agriculture Dept,False,88.2,2025
+371,Potato,West Bengal,East,Leaf Rust,Fungal,October,42.3,Medium,Unbalanced fertilizer use,Use sticky traps and neem oil,IPM,KVK alert,False,42.3,2025
+372,Okra,Uttar Pradesh,North,Sigatoka,Fungal,December,57.5,Medium,High temperature stress,Crop rotation and field sanitation,Cultural,KVK alert,False,57.5,2025
+373,Coffee,Punjab,North,Whitefly,Insect,September,71.4,High,Continuous monocropping,Use pheromone traps and neem spray,Biological,State Agriculture Dept,False,71.4,2025
+374,Okra,Himachal Pradesh,North,Leaf Rust,Fungal,November,12.4,Low,High humidity,Use sticky traps and neem oil,IPM,ICAR advisory,False,12.4,2025
+375,Okra,Andhra Pradesh,South,Blast,Fungal,July,36.2,Medium,Uncontrolled weeds,Release Trichogramma parasitoids,Biological,Farmer field report,False,36.2,2025
+376,Cotton,Karnataka,South,Tikka Leaf Spot,Fungal,September,73.4,High,Unbalanced fertilizer use,Crop rotation and field sanitation,Cultural,KVK alert,False,73.4,2025
+377,Okra,Assam,East,Fall Armyworm,Insect,September,78.8,High,Delayed sowing,Use pheromone traps and neem spray,Biological,ICAR advisory,False,78.8,2025
+378,Mustard,Tamil Nadu,South,Late Blight,Fungal,August,40.1,Medium,Heavy rainfall and waterlogging,Use pheromone traps and neem spray,Biological,ICAR advisory,False,40.1,2025
+379,Tomato,Jharkhand,East,Tikka Leaf Spot,Fungal,May,23.1,Low,High temperature stress,Apply recommended fungicides,Chemical,State Agriculture Dept,False,23.1,2025
+380,Pigeonpea,Himachal Pradesh,North,Sigatoka,Fungal,February,49.2,Medium,Delayed sowing,Adopt resistant varieties,Cultural,Farmer field report,False,49.2,2025
+381,Tea,Himachal Pradesh,North,Whitefly,Insect,September,50.5,Medium,High temperature stress,Crop rotation and field sanitation,Cultural,KVK alert,False,50.5,2025
+382,Tea,Punjab,North,Thrips,Insect,November,88.2,High,Invasive pest spread,Use pheromone traps and neem spray,Biological,ICAR advisory,False,88.2,2025
+383,Tea,Telangana,South,Blast,Fungal,June,69.4,High,High humidity,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,69.4,2025
+384,Pigeonpea,Tamil Nadu,South,Late Blight,Fungal,June,43.0,Medium,High humidity,Adopt resistant varieties,Cultural,PPQS report,False,43.0,2025
+385,Chilli,Madhya Pradesh,Central,Tikka Leaf Spot,Fungal,May,82.8,High,Continuous monocropping,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,82.8,2025
+386,Cotton,West Bengal,East,Blast,Fungal,January,13.0,Low,High temperature stress,Release Trichogramma parasitoids,Biological,Farmer field report,False,13.0,2025
+387,Mustard,Uttar Pradesh,North,Brown Planthopper,Insect,December,11.8,Low,Invasive pest spread,Integrated Pest Management practices,IPM,Farmer field report,False,11.8,2025
+388,Pigeonpea,West Bengal,East,Thrips,Insect,February,18.0,Low,Unbalanced fertilizer use,Crop rotation and field sanitation,Cultural,KVK alert,False,18.0,2025
+389,Mango,West Bengal,East,Blast,Fungal,October,87.6,High,Unbalanced fertilizer use,Integrated Pest Management practices,IPM,ICAR advisory,False,87.6,2025
+390,Apple,Gujarat,West,Fall Armyworm,Insect,May,,,Excess nitrogen use,Integrated Pest Management practices,IPM,PPQS report,True,50.0,2025
+391,Maize,Chhattisgarh,Central,Stem Borer,Insect,October,15.4,Low,Delayed sowing,Integrated Pest Management practices,IPM,KVK alert,False,15.4,2025
+392,Potato,Odisha,East,Sigatoka,Fungal,February,34.1,Medium,Uncontrolled weeds,Integrated Pest Management practices,IPM,Farmer field report,False,34.1,2025
+393,Onion,Gujarat,West,Late Blight,Fungal,July,51.2,Medium,Delayed sowing,Apply recommended fungicides,Chemical,ICAR advisory,False,51.2,2025
+394,Mango,Maharashtra,West,Thrips,Insect,August,87.0,High,Heavy rainfall and waterlogging,Crop rotation and field sanitation,Cultural,Farmer field report,False,87.0,2025
+395,Coffee,Haryana,North,Coffee Berry Borer,Insect,October,14.8,Low,Unbalanced fertilizer use,Crop rotation and field sanitation,Cultural,KVK alert,False,14.8,2025
+396,Sugarcane,Madhya Pradesh,Central,Blast,Fungal,December,34.0,Medium,High temperature stress,Integrated Pest Management practices,IPM,State Agriculture Dept,False,34.0,2025
+397,Maize,Gujarat,West,Tea Mosquito Bug,Insect,July,33.0,Medium,Poor drainage,Crop rotation and field sanitation,Cultural,Farmer field report,False,33.0,2025
+398,Chilli,Punjab,North,Leaf Rust,Fungal,February,12.2,Low,Uncontrolled weeds,Integrated Pest Management practices,IPM,KVK alert,False,12.2,2025
+399,Apple,Haryana,North,Late Blight,Fungal,November,26.2,Low,Uncontrolled weeds,Apply recommended fungicides,Chemical,ICAR advisory,False,26.2,2025
+400,Groundnut,Uttar Pradesh,North,Tikka Leaf Spot,Fungal,September,78.2,High,Heavy rainfall and waterlogging,Use sticky traps and neem oil,IPM,ICAR advisory,False,78.2,2025
+401,Wheat,Karnataka,South,Fruit Borer,Insect,October,15.1,Low,High temperature stress,Crop rotation and field sanitation,Cultural,ICAR advisory,False,15.1,2025
+402,Pigeonpea,Kerala,South,Leaf Rust,Fungal,February,50.0,Medium,Continuous monocropping,Release Trichogramma parasitoids,Biological,Farmer field report,False,50.0,2025
+403,Mango,Uttar Pradesh,North,Whitefly,Insect,February,19.8,Low,Invasive pest spread,Crop rotation and field sanitation,Cultural,Farmer field report,False,19.8,2025
+404,Pigeonpea,Madhya Pradesh,Central,Coffee Berry Borer,Insect,July,18.5,Low,Unbalanced fertilizer use,Crop rotation and field sanitation,Cultural,KVK alert,False,18.5,2025
+405,Mustard,Uttar Pradesh,North,Tea Mosquito Bug,Insect,October,,,Delayed sowing,Crop rotation and field sanitation,Cultural,ICAR advisory,True,37.7,2025
+406,Mustard,Himachal Pradesh,North,Tikka Leaf Spot,Fungal,April,80.4,High,Poor drainage,Crop rotation and field sanitation,Cultural,KVK alert,False,80.4,2025
+407,Banana,Bihar,East,Brown Planthopper,Insect,November,58.5,Medium,High humidity,Adopt resistant varieties,Cultural,PPQS report,False,58.5,2025
+408,Groundnut,Jharkhand,East,Late Blight,Fungal,May,66.0,High,Continuous monocropping,Release Trichogramma parasitoids,Biological,PPQS report,False,66.0,2025
+409,Brinjal,Punjab,North,Brown Planthopper,Insect,July,83.4,High,Uncontrolled weeds,Use pheromone traps and neem spray,Biological,PPQS report,False,83.4,2025
+410,Soybean,Gujarat,West,Tea Mosquito Bug,Insect,March,60.5,High,High temperature stress,Use sticky traps and neem oil,IPM,ICAR advisory,False,60.5,2025
+411,Groundnut,Karnataka,South,Tea Mosquito Bug,Insect,August,43.0,Medium,Invasive pest spread,Adopt resistant varieties,Cultural,KVK alert,False,43.0,2025
+412,Cotton,Maharashtra,West,Wilt,Fungal,May,38.1,Medium,Excess nitrogen use,Adopt resistant varieties,Cultural,Farmer field report,False,38.1,2025
+413,Onion,Rajasthan,West,Wilt,Fungal,January,61.3,High,Poor drainage,Adopt resistant varieties,Cultural,KVK alert,False,61.3,2025
+414,Sugarcane,Andhra Pradesh,South,Late Blight,Fungal,April,35.1,Medium,Continuous monocropping,Use pheromone traps and neem spray,Biological,PPQS report,False,35.1,2025
+415,Chilli,Assam,East,Wilt,Fungal,November,77.8,High,High temperature stress,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,77.8,2025
+416,Brinjal,Himachal Pradesh,North,Tea Mosquito Bug,Insect,December,23.9,Low,Excess nitrogen use,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,23.9,2025
+417,Soybean,Gujarat,West,Stem Borer,Insect,July,41.5,Medium,High temperature stress,Use sticky traps and neem oil,IPM,Farmer field report,False,41.5,2025
+418,Chilli,Andhra Pradesh,South,Brown Planthopper,Insect,September,60.1,High,Continuous monocropping,Integrated Pest Management practices,IPM,PPQS report,False,60.1,2025
+419,Groundnut,Maharashtra,West,Brown Planthopper,Insect,July,58.0,Medium,Poor drainage,Use pheromone traps and neem spray,Biological,State Agriculture Dept,False,58.0,2025
+420,Tomato,Chhattisgarh,Central,Stem Borer,Insect,January,44.8,Medium,Heavy rainfall and waterlogging,Use sticky traps and neem oil,IPM,KVK alert,False,44.8,2025
+421,Cotton,Madhya Pradesh,Central,Wilt,Fungal,April,79.0,High,Uncontrolled weeds,Crop rotation and field sanitation,Cultural,KVK alert,False,79.0,2025
+422,Pigeonpea,Kerala,South,Late Blight,Fungal,April,89.6,High,Uncontrolled weeds,Adopt resistant varieties,Cultural,PPQS report,False,89.6,2025
+423,Mustard,Maharashtra,West,Late Blight,Fungal,March,,,Uncontrolled weeds,Apply recommended fungicides,Chemical,Farmer field report,True,43.0,2025
+424,Chilli,Odisha,East,Thrips,Insect,November,16.9,Low,Heavy rainfall and waterlogging,Apply recommended fungicides,Chemical,State Agriculture Dept,False,16.9,2025
+425,Pigeonpea,Gujarat,West,Wilt,Fungal,July,68.9,High,Uncontrolled weeds,Use pheromone traps and neem spray,Biological,ICAR advisory,False,68.9,2025
+426,Apple,Telangana,South,Brown Planthopper,Insect,June,47.7,Medium,Invasive pest spread,Release Trichogramma parasitoids,Biological,Farmer field report,False,47.7,2025
+427,Wheat,Andhra Pradesh,South,Fall Armyworm,Insect,September,34.2,Medium,High temperature stress,Adopt resistant varieties,Cultural,State Agriculture Dept,False,34.2,2025
+428,Sugarcane,Jharkhand,East,Brown Planthopper,Insect,October,23.6,Low,Heavy rainfall and waterlogging,Crop rotation and field sanitation,Cultural,KVK alert,False,23.6,2025
+429,Sugarcane,Karnataka,South,Fruit Borer,Insect,December,21.3,Low,Continuous monocropping,Crop rotation and field sanitation,Cultural,ICAR advisory,False,21.3,2025
+430,Sugarcane,Himachal Pradesh,North,Tea Mosquito Bug,Insect,May,84.1,High,Uncontrolled weeds,Crop rotation and field sanitation,Cultural,Farmer field report,False,84.1,2025
+431,Groundnut,Assam,East,Fruit Borer,Insect,July,35.2,Medium,Heavy rainfall and waterlogging,Use sticky traps and neem oil,IPM,PPQS report,False,35.2,2025
+432,Apple,Rajasthan,West,Brown Planthopper,Insect,April,28.4,Low,High humidity,Integrated Pest Management practices,IPM,State Agriculture Dept,False,28.4,2025
+433,Tomato,Rajasthan,West,Late Blight,Fungal,February,84.2,High,High humidity,Integrated Pest Management practices,IPM,State Agriculture Dept,False,84.2,2025
+434,Apple,Himachal Pradesh,North,Whitefly,Insect,August,67.6,High,Poor drainage,Use pheromone traps and neem spray,Biological,State Agriculture Dept,False,67.6,2025
+435,Maize,Gujarat,West,Tea Mosquito Bug,Insect,May,23.5,Low,Delayed sowing,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,23.5,2025
+436,Tea,Chhattisgarh,Central,Leaf Rust,Fungal,October,10.3,Low,Excess nitrogen use,Apply recommended fungicides,Chemical,KVK alert,False,10.3,2025
+437,Maize,Madhya Pradesh,Central,Sigatoka,Fungal,August,81.0,High,High humidity,Crop rotation and field sanitation,Cultural,ICAR advisory,False,81.0,2025
+438,Pigeonpea,Odisha,East,Thrips,Insect,February,22.3,Low,Continuous monocropping,Integrated Pest Management practices,IPM,KVK alert,False,22.3,2025
+439,Brinjal,Uttar Pradesh,North,Thrips,Insect,November,,,High humidity,Adopt resistant varieties,Cultural,Farmer field report,True,63.0,2025
+440,Onion,Chhattisgarh,Central,Blast,Fungal,April,74.1,High,Uncontrolled weeds,Crop rotation and field sanitation,Cultural,ICAR advisory,False,74.1,2025
+441,Maize,Jharkhand,East,Thrips,Insect,July,30.4,Medium,Unbalanced fertilizer use,Use sticky traps and neem oil,IPM,KVK alert,False,30.4,2025
+442,Maize,Andhra Pradesh,South,Tea Mosquito Bug,Insect,April,72.4,High,Uncontrolled weeds,Adopt resistant varieties,Cultural,PPQS report,False,72.4,2025
+443,Cotton,Bihar,East,Whitefly,Insect,July,83.7,High,Excess nitrogen use,Apply recommended fungicides,Chemical,State Agriculture Dept,False,83.7,2025
+444,Cotton,Odisha,East,Aphids,Insect,April,80.8,High,Heavy rainfall and waterlogging,Crop rotation and field sanitation,Cultural,Farmer field report,False,80.8,2025
+445,Coffee,Haryana,North,Stem Borer,Insect,July,59.1,Medium,High temperature stress,Adopt resistant varieties,Cultural,KVK alert,False,59.1,2025
+446,Maize,Telangana,South,Aphids,Insect,June,64.1,High,Poor drainage,Integrated Pest Management practices,IPM,Farmer field report,False,64.1,2025
+447,Mango,Karnataka,South,Fall Armyworm,Insect,August,82.6,High,Heavy rainfall and waterlogging,Crop rotation and field sanitation,Cultural,PPQS report,False,82.6,2025
+448,Sugarcane,Bihar,East,Tea Mosquito Bug,Insect,April,33.6,Medium,High humidity,Release Trichogramma parasitoids,Biological,ICAR advisory,False,33.6,2025
+449,Wheat,Assam,East,Stem Borer,Insect,September,17.6,Low,Excess nitrogen use,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,17.6,2025
+450,Banana,Uttar Pradesh,North,Thrips,Insect,February,11.3,Low,Heavy rainfall and waterlogging,Apply recommended fungicides,Chemical,PPQS report,False,11.3,2025
+451,Pigeonpea,Telangana,South,Stem Borer,Insect,July,33.8,Medium,Excess nitrogen use,Adopt resistant varieties,Cultural,KVK alert,False,33.8,2025
+452,Brinjal,Uttarakhand,North,Sigatoka,Fungal,May,83.4,High,Poor drainage,Apply recommended fungicides,Chemical,PPQS report,False,83.4,2025
+453,Maize,Uttarakhand,North,Fall Armyworm,Insect,November,52.8,Medium,High humidity,Integrated Pest Management practices,IPM,ICAR advisory,False,52.8,2025
+454,Rice,Maharashtra,West,Tikka Leaf Spot,Fungal,August,42.4,Medium,Excess nitrogen use,Adopt resistant varieties,Cultural,KVK alert,False,42.4,2025
+455,Soybean,Uttarakhand,North,Tea Mosquito Bug,Insect,October,63.9,High,High temperature stress,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,63.9,2025
+456,Maize,Kerala,South,Blast,Fungal,January,75.3,High,Unbalanced fertilizer use,Use sticky traps and neem oil,IPM,ICAR advisory,False,75.3,2025
+457,Potato,Himachal Pradesh,North,Tikka Leaf Spot,Fungal,March,44.9,Medium,Delayed sowing,Apply recommended fungicides,Chemical,ICAR advisory,False,44.9,2025
+458,Soybean,Rajasthan,West,Blast,Fungal,August,19.3,Low,Poor drainage,Adopt resistant varieties,Cultural,KVK alert,False,19.3,2025
+459,Okra,Himachal Pradesh,North,Brown Planthopper,Insect,August,26.1,Low,Excess nitrogen use,Use sticky traps and neem oil,IPM,KVK alert,False,26.1,2025
+460,Wheat,West Bengal,East,Brown Planthopper,Insect,February,67.0,High,High temperature stress,Use sticky traps and neem oil,IPM,KVK alert,False,67.0,2025
+461,Tea,Uttarakhand,North,Wilt,Fungal,September,13.0,Low,High temperature stress,Integrated Pest Management practices,IPM,Farmer field report,False,13.0,2025
+462,Tea,Uttarakhand,North,Coffee Berry Borer,Insect,November,79.4,High,Unbalanced fertilizer use,Adopt resistant varieties,Cultural,ICAR advisory,False,79.4,2025
+463,Mango,Andhra Pradesh,South,Late Blight,Fungal,October,15.1,Low,High temperature stress,Integrated Pest Management practices,IPM,ICAR advisory,False,15.1,2025
+464,Okra,Uttarakhand,North,Tikka Leaf Spot,Fungal,June,44.9,Medium,Poor drainage,Crop rotation and field sanitation,Cultural,PPQS report,False,44.9,2025
+465,Okra,Odisha,East,Whitefly,Insect,April,57.0,Medium,Invasive pest spread,Release Trichogramma parasitoids,Biological,KVK alert,False,57.0,2025
+466,Sugarcane,Bihar,East,Wilt,Fungal,December,43.3,Medium,Invasive pest spread,Use sticky traps and neem oil,IPM,KVK alert,False,43.3,2025
+467,Tomato,Uttarakhand,North,Leaf Rust,Fungal,May,16.9,Low,Heavy rainfall and waterlogging,Apply recommended fungicides,Chemical,PPQS report,False,16.9,2025
+468,Potato,Maharashtra,West,Thrips,Insect,August,43.3,Medium,Heavy rainfall and waterlogging,Crop rotation and field sanitation,Cultural,PPQS report,False,43.3,2025
+469,Potato,Jharkhand,East,Brown Planthopper,Insect,January,30.9,Medium,Poor drainage,Apply recommended fungicides,Chemical,Farmer field report,False,30.9,2025
+470,Wheat,Karnataka,South,Fruit Borer,Insect,July,28.1,Low,Delayed sowing,Apply recommended fungicides,Chemical,KVK alert,False,28.1,2025
+471,Groundnut,West Bengal,East,Sigatoka,Fungal,June,71.6,High,Delayed sowing,Crop rotation and field sanitation,Cultural,PPQS report,False,71.6,2025
+472,Mango,Uttarakhand,North,Tikka Leaf Spot,Fungal,February,84.1,High,Heavy rainfall and waterlogging,Use sticky traps and neem oil,IPM,KVK alert,False,84.1,2025
+473,Cotton,Tamil Nadu,South,Sigatoka,Fungal,October,78.7,High,Continuous monocropping,Use sticky traps and neem oil,IPM,Farmer field report,False,78.7,2025
+474,Wheat,Assam,East,Stem Borer,Insect,March,79.7,High,Invasive pest spread,Apply recommended fungicides,Chemical,State Agriculture Dept,False,79.7,2025
+475,Brinjal,Assam,East,Whitefly,Insect,December,22.3,Low,Invasive pest spread,Crop rotation and field sanitation,Cultural,PPQS report,False,22.3,2025
+476,Cotton,Gujarat,West,Whitefly,Insect,July,10.5,Low,Heavy rainfall and waterlogging,Crop rotation and field sanitation,Cultural,State Agriculture Dept,False,10.5,2025
+477,Mango,Maharashtra,West,Stem Borer,Insect,May,70.4,High,Invasive pest spread,Adopt resistant varieties,Cultural,PPQS report,False,70.4,2025
+478,Sugarcane,Assam,East,Late Blight,Fungal,April,44.3,Medium,High temperature stress,Integrated Pest Management practices,IPM,Farmer field report,False,44.3,2025
+479,Banana,Andhra Pradesh,South,Whitefly,Insect,March,67.4,High,Delayed sowing,Use pheromone traps and neem spray,Biological,ICAR advisory,False,67.4,2025
+480,Onion,West Bengal,East,Late Blight,Fungal,March,41.5,Medium,High humidity,Adopt resistant varieties,Cultural,PPQS report,False,41.5,2025
+481,Tea,Telangana,South,Tikka Leaf Spot,Fungal,December,80.1,High,Uncontrolled weeds,Integrated Pest Management practices,IPM,KVK alert,False,80.1,2025
+482,Apple,Bihar,East,Wilt,Fungal,December,37.5,Medium,Uncontrolled weeds,Release Trichogramma parasitoids,Biological,Farmer field report,False,37.5,2025
+483,Sugarcane,Punjab,North,Whitefly,Insect,November,53.6,Medium,Excess nitrogen use,Adopt resistant varieties,Cultural,KVK alert,False,53.6,2025
+484,Banana,Punjab,North,Sigatoka,Fungal,April,16.7,Low,Delayed sowing,Crop rotation and field sanitation,Cultural,KVK alert,False,16.7,2025
+485,Sugarcane,Assam,East,Aphids,Insect,May,50.9,Medium,Uncontrolled weeds,Release Trichogramma parasitoids,Biological,State Agriculture Dept,False,50.9,2025
+486,Tomato,Andhra Pradesh,South,Brown Planthopper,Insect,September,29.3,Low,Uncontrolled weeds,Adopt resistant varieties,Cultural,KVK alert,False,29.3,2025
+487,Mango,Tamil Nadu,South,Wilt,Fungal,January,30.8,Medium,Delayed sowing,Crop rotation and field sanitation,Cultural,ICAR advisory,False,30.8,2025
+488,Wheat,Tamil Nadu,South,Whitefly,Insect,May,10.4,Low,Invasive pest spread,Apply recommended fungicides,Chemical,Farmer field report,False,10.4,2025
+489,Tea,Jharkhand,East,Tea Mosquito Bug,Insect,October,33.9,Medium,Excess nitrogen use,Adopt resistant varieties,Cultural,PPQS report,False,33.9,2025
+490,Pigeonpea,Assam,East,Wilt,Fungal,April,51.3,Medium,Unbalanced fertilizer use,Use sticky traps and neem oil,IPM,State Agriculture Dept,False,51.3,2025
+491,Brinjal,Tamil Nadu,South,Blast,Fungal,December,43.0,Medium,Continuous monocropping,Use pheromone traps and neem spray,Biological,KVK alert,False,43.0,2025
+492,Sugarcane,Himachal Pradesh,North,Leaf Rust,Fungal,August,64.1,High,High temperature stress,Release Trichogramma parasitoids,Biological,Farmer field report,False,64.1,2025
+493,Mango,Punjab,North,Tea Mosquito Bug,Insect,May,60.9,High,Heavy rainfall and waterlogging,Adopt resistant varieties,Cultural,KVK alert,False,60.9,2025
+494,Mustard,Maharashtra,West,Blast,Fungal,September,66.9,High,Poor drainage,Adopt resistant varieties,Cultural,Farmer field report,False,66.9,2025
+495,Mango,Tamil Nadu,South,Wilt,Fungal,April,12.6,Low,Poor drainage,Release Trichogramma parasitoids,Biological,State Agriculture Dept,False,12.6,2025
+496,Cotton,Uttarakhand,North,Tea Mosquito Bug,Insect,July,39.6,Medium,Uncontrolled weeds,Use pheromone traps and neem spray,Biological,Farmer field report,False,39.6,2025
+497,Sugarcane,Tamil Nadu,South,Fruit Borer,Insect,May,34.3,Medium,Heavy rainfall and waterlogging,Use pheromone traps and neem spray,Biological,PPQS report,False,34.3,2025
+498,Sugarcane,Chhattisgarh,Central,Late Blight,Fungal,January,34.4,Medium,Uncontrolled weeds,Apply recommended fungicides,Chemical,PPQS report,False,34.4,2025
+499,Okra,Andhra Pradesh,South,Stem Borer,Insect,September,79.6,High,High temperature stress,Integrated Pest Management practices,IPM,Farmer field report,False,79.6,2025
+500,Soybean,Chhattisgarh,Central,Whitefly,Insect,June,48.0,Medium,Excess nitrogen use,Apply recommended fungicides,Chemical,PPQS report,False,48.0,2025
